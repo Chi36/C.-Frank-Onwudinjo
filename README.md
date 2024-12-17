@@ -16,7 +16,7 @@ Regression models such as Support Vector Regression (SVR), Random Forest, Linear
 
 **Graphical User Interface (GUI)**: https://huggingface.co/spaces/Frankie89/Catalysis_Performance_1
 
-**Dataset**: Datasets were provided by the course instructor. Data preprocessing done include checking for missing values, summary statistics and correlation matrix obtained using heatmaps. 
+**Dataset**: Datasets were sourced from publicly available research journals recommended by the course instructor. Data preprocessing done include checking for missing values, summary statistics and correlation matrix obtained using heatmaps. 
 
 **Project Details**: 
 This predicts forest fires in a given region based on the available datasets.Load datasets, separate numerical and categorical variables. Next, handle missing values and perform One-Hot Encoding for categorical variables. Drop original columns and concatenate encoded ones. Now, split datasets into inputs (x) and targets (y). Perform one-Hot encoding on the output variables if categorical (ensure that features are numeric). Define the models used, train and select the best model. Define Gradio app and interface. Finally push to Hugging Face and move to GitHub. 
