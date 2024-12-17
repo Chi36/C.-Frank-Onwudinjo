@@ -10,7 +10,7 @@ The goal of this project is to  develop a predictive model that forecasts the ca
 The features (inputs) of the dataset include Reaction Temperature, Ratio of CH₄ in Feed, Ni Loading, Surface Area, GHSV, Reaction Time, Pore Size, Pore Volume, H2-TPR Peak Temperature , Ni Particle Size, Ni Dispersion, Modifier Electronegativity. The targets (output) are  Syngas Ratio, CO₂ Conversion, or CH₄ Conversion
 
 **Machine Learning Algorithm(s)**: 
-Regression models such as Support Vector Regression (SVR), Random Forest, Linear Regression and KNN were applied. The classification models used are RandomForestClassifier, Logistic Regression, SVC and KNN Classifier.
+Regression models such as Support Vector Regression (SVR), Random Forest, Linear Regression and KNN were applied. The classification models used are RandomForestClassifier, Logistic Regression, SVC and KNN Classifier. RandomForest': RandomForestRegressor(),'LinearRegression': LinearRegression(), 'SVR': SVR(), 'KNN': KNeighborsRegressor()
 
 **Ethics Considerations**: https://github.com/Chi36/C.-Frank-Onwudinjo/blob/main/C_Frank_Onwudinjo__Catalysis_Performance_Prediction_Ethics_DataCard_and_Deon_Checklist.ipynb
 
