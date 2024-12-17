@@ -12,7 +12,7 @@ The features (inputs) of the dataset include Reaction Temperature, Ratio of CHâ‚
 **Machine Learning Algorithm(s)**: 
 Regression models such as Support Vector Regression (SVR), Random Forest, Linear Regression and K-Nearest Neighbors (KNN) were applied. The classification models used are RandomForestClassifier, Logistic Regression, SVC and KNN Classifier. 
 
-**Ethics Considerations**: https://github.com/Chi36/C.-Frank-Onwudinjo/blob/main/C_Frank_Onwudinjo__Catalysis_Performance_Prediction_Ethics_DataCard_and_Deon_Checklist.ipynb
+**Ethics Considerations**: https://github.com/Chi36/C.-Frank-Onwudinjo/Catalysis_Performance_Prediction_Ethics_DataCard_and_Deon_Checklist.ipynb
 
 **Graphical User Interface (GUI)**: https://huggingface.co/spaces/Frankie89/Catalysis_Performance_1
 
