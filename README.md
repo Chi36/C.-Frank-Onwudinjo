@@ -26,6 +26,3 @@ This predicts forest fires in a given region based on the available datasets.Loa
 **Your department and university information**:                  Chemical Engineering Departmnent, Bucknell University
 
 **Course Code**:                                                        CHEG 672 (Data Science in Chemical Engineering)
-
-This app predicts catalysis performance during methane dry reforming. Here is the link to the user interface 
-https://huggingface.co/spaces/Frankie89/Catalysis_Performance_1
