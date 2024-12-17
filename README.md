@@ -1,7 +1,6 @@
 # Prediction of Catalysis Performance during Dry reforming of Methane
 
 **Problem Statement**: 
-### Problem Statement: Prediction of Catalysis Performance during Dry Reforming of Methane
 
 The Dry Reforming of Methane (DRM) is a process for converting methane (CH₄) and carbon dioxide (CO₂) into syngas, a mixture of hydrogen (H₂) and carbon monoxide (CO). In the manufacturing industry, this method is used for the production of fuels and chemicals mitigating the impact of greenhouse gases through reduction and utilization. Nonetheless, the sustainability of DRM  depends on the catalyst performance which affected by factors like deactivation resulting from coking, particle sintering, and catalyst poisoning. Catalyst performance is affected by operating conditions such as temperature, pressure, feed gas composition, GSHV and many other catalyst properties. To improve the efficiency and sustainability of the DRM process, consistent metrics concerns have to be addressed (e.g. scalability) required for catalysis performance prediction regardless of reaction condition.
 
